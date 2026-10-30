@@ -1,0 +1,14 @@
+{
+  "name": "widgets-pr-tester",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@expo/ui": "workspace:*",
+    "expo": "workspace:*",
+    "expo-widgets": "workspace:*",
+    "react": "19.3.0",
+    "react-native": "0.88.1",
+    "expo-asset": "workspace:*"
+  }
+}
